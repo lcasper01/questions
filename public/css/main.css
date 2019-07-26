@@ -1,0 +1,46 @@
+.txtarea {
+    display: inline-block;
+    padding: 8px 11px;
+    padding-right: 30px;
+    width: 320px;
+    height: 120px;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 1.35em;
+    font-weight: normal;
+    color: #898989;
+    background-color: #f0f0f0;
+    background-image: url('images/checkmark.png');
+    background-position: 110% 4%;
+    background-repeat: no-repeat;
+    border: 1px solid #ccc;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.75);
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 1px 4px -1px #a8a8a8 inset;
+    -moz-box-shadow: 0 1px 4px -1px #a8a8a8 inset;
+    box-shadow: 0 1px 4px -1px #a8a8a8 inset;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+}
+label {
+    display: inline-block;
+    font-size: 1.2em;
+    font-weight: bold;
+    width: 120px;
+    padding: 6px 0;
+    color: #464646;
+    vertical-align: top;
+}
+p{
+    font-size: 1.2em;
+    line-height: initial;
+}
+i{
+    font-size: 0.8em;
+    font-family: 'Oxygen', sans-serif;
+}
